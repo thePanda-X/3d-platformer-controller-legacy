@@ -11,6 +11,10 @@ This repository contains an older Unity 3D character-controller prototype I buil
 
 - Click the images to open the videos on YouTube.
 
+> [!NOTE]
+> I am trying to recover the better version if i do recover it i will update the code to match that one
+
+
 ## What's included
 - Scenes and example levels: `Assets/Scenes/`
 - Controller code and helpers: `Assets/Scripts/`
@@ -25,10 +29,3 @@ This repository contains an older Unity 3D character-controller prototype I buil
 ## Notes
 - The second demo (linked above) shows a more polished prototype that I made but lost and cannot recover — it is not included here.
 - This project is a personal prototype from 2022/23 and is not production-ready or actively maintained.
-
-## Contributing
-- Feel free to open issues or PRs if you want to improve or adapt the controller.
-- If you want a license added, tell me which license to apply and I can add a `LICENSE` file.
-
-## License
-- No license included. Add a `LICENSE` file if you want this redistributed under specific terms.
